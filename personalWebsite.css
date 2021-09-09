@@ -1,0 +1,110 @@
+body
+{
+    margin: 0;
+    text-align: center;
+    font-family: 'Merriweather', sans-serif;
+
+}
+
+h1
+{
+    font-family: 'Sacramento', cursive;
+    font-size: 70px;
+    line-height: 2;
+}
+h2
+{
+    font-family: 'Montserrat', sans-serif;
+    font-size: 30px;
+    
+}
+h3
+{
+    font-family: 'Montserrat', sans-serif;
+    
+}
+.top-container
+{
+    background-color: #66BFBF;
+    position: relative;
+    padding-top: 100px ;
+}
+.top-cloud
+{
+    position: absolute;
+    left: 600px;
+    bottom: 300px;
+  
+}
+
+.bottom-cloud
+{
+    position: absolute;
+    right: 600px;
+    top: 50px;
+    
+}
+
+.skills-row
+{
+    width: 50%;
+    margin:100px auto 100px auto;
+    text-align: left;
+    
+}
+.web-designer
+{
+    text-align: center;
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.dancimg
+{
+    text-align: center;
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+}
+.btn
+{
+    background-color: #66BFBF;
+    text-decoration: none;
+    border: 1px solid #66BFBF;
+    size: 50px;
+    padding: 10px 20px;
+   
+   
+}
+.bottom-container
+{
+    position: relative;
+    padding: 100px;
+    
+    background-color: #125d98;
+    color: white;
+    
+}
+.footer-link1
+{
+    position: absolute;
+    left: 500px;
+    color: white;
+   
+}
+
+.footer-link2
+{
+    position: absolute;
+    left: 600px;
+   
+}
+hr
+{
+    border-style: none;
+    border-top-style:dotted ;
+    border-color: grey;
+    border-width: 5px;
+    width: 5%;
+    
+}
